@@ -5,5 +5,6 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
         System.out.printf("This is checking");
+        System.out.printf("Update");
     }
 }
